@@ -4,9 +4,12 @@ The M5 Forecasting Accuracy Competition
 Nousot competed in a kaggle competition,
 [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy/data),
 that challenges competitors to predict item sales at stores in various locations
-for 28-days time periods. The team took 16th place. This documentation shows how
+for 28-days time periods. The team took 16th place, and we wrote a
+[blog article](https://nousot.com/blog/how-we-won-gold/) describing the experience.
+This documentation shows how
 to reproduce the contest submission. Things got a little hairy at the end, so
-please add an issue if something needs attention
+please add an issue if something needs attention.
+
 
 See [M5 Documentation here](https://mk0mcompetitiont8ake.kinstacdn.com/wp-content/uploads/2020/02/M5-Competitors-Guide_Final-1.pdf).
 
