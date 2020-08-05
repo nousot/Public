@@ -1,0 +1,4 @@
+data/*
+submissions/*
+__pycache__/*
+plots*
